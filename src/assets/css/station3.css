@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+div {
+    background-color: #fff;
+    padding: 3px;
+}
+
+p { 
+    color: #282828;
+}
+
+title{font-size: 14px;}
+
+desc{font-size: 12px;}
+
+img {
+    width: 288px;
+    height: 182px;
+    margin-bottom: 3px;
+}
